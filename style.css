@@ -47,3 +47,30 @@ h1 {
     background-position: right;
     
 }
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+#web-dev{
+    border-image: linear-gradient(orange,red);
+    border-image-slice: 1;
+    border-left: 10px solid;
+}
+#baby-web{
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-left: 10px solid;
+}
+.text{
+    text-align: center;
+    font-weight:100px;
+}
