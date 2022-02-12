@@ -45,9 +45,10 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
+
 }
-.experience-item{
+
+.experience-item {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
@@ -55,22 +56,26 @@ h1 {
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
 }
-.experience{
+
+.experience {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    
+
 }
-#web-dev{
-    border-image: linear-gradient(orange,red);
+
+#web-dev {
+    border-image: linear-gradient(orange, red);
     border-image-slice: 1;
     border-left: 10px solid;
 }
-#baby-web{
-    border-image: linear-gradient(blue,cyan);
+
+#baby-web {
+    border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
     border-left: 10px solid;
 }
-.text{
+
+.text {
     text-align: center;
-    font-weight:100px;
+    font-weight: 100px;
 }
